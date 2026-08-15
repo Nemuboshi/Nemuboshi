@@ -1,6 +1,6 @@
 # Hi there 👋
 
-A 24-year-old software engineer
+A 25-year-old software engineer
 
 Focused on modern full-stack development, AI applications, and developer tooling.
 
