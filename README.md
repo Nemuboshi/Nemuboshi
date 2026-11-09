@@ -1,6 +1,6 @@
 # Hi there 👋
 
-A software engineer
+Perhaps I just enjoy constructing my own dreamscapes.
 
 he/him
 
